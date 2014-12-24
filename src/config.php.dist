@@ -1,0 +1,7 @@
+<?php
+$config['db'] = array(
+    'dbname' => 'database',
+    'user' => 'developer',
+    'password' => 'developer',
+    'host' => 'localhost',
+);
